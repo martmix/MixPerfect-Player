@@ -41,6 +41,16 @@ MixPerfect Player is a **free semi-automatic DJ Player** for Windows and Linux t
 
 ---
 
+## Demo video's
+
+See how smoothly the player mixes songs in real time from a randomly created playlist.
+
+[![MixPerfect Player Demo](https://img.youtube.com/vi/EuWFc-cUcoI/0.jpg)](https://www.youtube.com/watch?v=EuWFc-cUcoI)
+
+More demo videos are available on [MixPerfect Player YouTube channel](https://www.youtube.com/@mixperfectplayer).
+
+---
+
 ## Documentation
 Full documentation is included in the software (Help Panel) and also available on the MixPerfect Player website: [https://mixperfectplayer.nl/documentation.html](https://mixperfectplayer.nl/documentation.html)
 
