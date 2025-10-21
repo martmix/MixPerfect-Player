@@ -48,6 +48,8 @@ Full documentation is included in the software (Help Panel) and also available o
 
 ## Quick Reference
 
+<img src="https://mixperfectplayer.nl/v4-mixperfect-player-database-add-song.png" alt="MixPerfect Player - Add a song to database - screenshot" width="920" height="754">
+
 ### Database:
 * Add, edit, or delete records; sort and search by artist, title, BPM, year, label, or country.
 * Waveform editor with zoom, cursor, and scale for precise marker placement.
@@ -63,7 +65,6 @@ Full documentation is included in the software (Help Panel) and also available o
 * Speed controls: set BPM of the first song, BPM order, and maximum BPM distance (controls pitch adjustments).
 * Player controls, dynamic amplitude, export to multiple audio formats, keyboard shortcuts, and the ability to replace tracks in the playlist.
 
-<img src="https://mixperfectplayer.nl/v4-mixperfect-player-database-add-song.png" alt="MixPerfect Player - Add a song to database - screenshot" width="920" height="754">
 
 ---
 
