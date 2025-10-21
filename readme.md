@@ -1,80 +1,80 @@
 # MixPerfect Player
 
-MixPerfect Player is een **gratis semi-automatische DJ Player** voor Windows en Linux die je tracks nauwkeurig mixt met behulp van handmatig ingestelde **markers**, **beatmatching**, en flexibele overgangsregels — terwijl het jou de volledige creatieve controle geeft.
+MixPerfect Player is a **free semi-automatic DJ Player** for Windows and Linux that precisely mixes your tracks using manually set **markers**, **beatmatching**, and flexible transition rules — while giving you full creative control.
 
-Ideaal voor achtergrondmuziek, feesten en webradio.
+Ideal for background music, parties, and web radio.
 
-## Belangrijkste Kenmerken
+## Key Features
 
-* **Nauwkeurige Overgangen:** Handmatige markers gecombineerd met een slimme engine zorgen voor vloeiende mixes zonder grote pitch-verschuivingen.
-* **Mix Marker Database:** Intro, break en loop markers voor accurate mixpunten elke keer opnieuw.
-* **Beatmatching & Filters:** Optionele gain control en beat filters om botsende elementen te voorkomen.
-* **Flexibele Playlists:** Filter op BPM, genre, artiest, label, jaar, land, en gebruik de oneindige modus voor continue weergave.
-
----
-
-## Aan de Slag in 4 Stappen
-
-1.  Installeer en open MixPerfect Player.
-2.  Stel je muziekmap in via **Settings** en importeer je bestanden.
-3.  Voeg **mix markers** toe in de Database (intro, break en andere).
-4.  Maak een playlist aan en druk op **Play** om te genieten van naadloze mixes.
+* **Precise Transitions:** Manual markers combined with a smart engine ensure smooth mixes without major pitch shifts.
+* **Mix Marker Database:** Intro, break, and loop markers for accurate mix points every time.
+* **Beatmatching & Filters:** Optional gain control and beat filters to prevent clashing elements.
+* **Flexible Playlists:** Filter by BPM, genre, artist, label, year, country, and use infinite mode for continuous playback.
 
 ---
 
-## Kernfunctionaliteiten
+## Get Started in 4 Steps
 
-### Overgangen:
-* Beatmatching met minimale toonhoogte-artefacten.
-* In- of uitsluiten van beats, basslines, zang en melodieën in overgangen.
-* Intro & break markers (32-beat standaard), loops en beat-correctie markers voor oudere opnames.
+1.  Install and open MixPerfect Player.
+2.  Set your music folder in **Settings** and import your files.
+3.  Add **mix markers** in the Database (intro, break, and others).
+4.  Create a playlist and press **Play** to enjoy seamless mixes.
 
-### Playlists & Bibliotheek:
-* Willekeurige playlists, aangepaste playlists en oneindige modus (perfect voor webradio).
-* Tot 999 tracks per playlist; opslaan of exporteren van playlists en mixes naar audiobestanden.
-* Het Bestanden-paneel toont BPM per track voor vloeiende tempo-progressies.
+---
+
+## Core Features
+
+### Transitions:
+* Beatmatching with minimal pitch artifacts.
+* Include or exclude beats, basslines, vocals, and melodies in transitions.
+* Intro & break markers (32-beat default), loops, and beat-correction markers for older recordings.
+
+### Playlists & Library:
+* Random playlists, custom playlists, and infinite mode (perfect for web radio).
+* Up to 999 tracks per playlist; save or export playlists and mixes to audio files.
+* The Files panel shows BPM per track for smooth tempo progressions.
 
 ### Workflow:
-* Ingebouwde documentatie en sneltoetsen voor snel bewerken.
-* Automatische update-checker en simpele upgrade-workflow.
-* Focus op nauwkeurig mixen met een gebruiksvriendelijke interface en flexibel playlist management.
+* Built-in documentation and keyboard shortcuts for fast editing.
+* Automatic update checker and simple upgrade workflow.
+* Focus on precise mixing with a user-friendly interface and flexible playlist management.
 
 ---
 
-## Volledige Documentatie
+## Full Documentation
 [https://mixperfectplayer.nl/documentation.html](https://mixperfectplayer.nl/documentation.html)
 
 ---
 
-## Snel Overzicht
+## Quick Reference
 
 ### Database:
-* Records toevoegen, bewerken of verwijderen; sorteren en zoeken op artiest, titel, BPM, jaar, label of land.
-* Waveform-editor met zoom, cursor en schaal voor nauwkeurige markerplaatsing.
-* Intro, break en loop markers met sneltoetsen; Beat Sync Test voor validatie.
+* Add, edit, or delete records; sort and search by artist, title, BPM, year, label, or country.
+* Waveform editor with zoom, cursor, and scale for precise marker placement.
+* Intro, break, and loop markers with keyboard shortcuts; Beat Sync Test for validation.
 
-### Bestanden:
-* Mappen importeren (inclusief submappen), tracks bekijken en favorieten toevoegen aan de database.
-* BPM-weergave voor elke track helpt bij het bouwen van vloeiende playlists.
-* Duplicaatdetectie om te voorkomen dat dezelfde track tweemaal wordt toegevoegd.
+### Files:
+* Import folders (including subfolders), preview tracks, and add favorites to the database.
+* BPM display for each track helps when building smooth playlists.
+* Duplicate detection to prevent adding the same track twice.
 
-### Player & Instellingen:
-* Stel mappen, GUI-thema, playlistlengte, regels voor inkorten van nummers en herhalingsinstellingen in.
-* Snelheidscontroles: stel BPM van het eerste nummer, BPM-volgorde en maximale BPM-afstand in (regelt pitch-aanpassingen).
-* Player-besturing, dynamische amplitude, exporteren naar meerdere audioformaten, sneltoetsen en de mogelijkheid om tracks in de playlist te vervangen.
+### Player & Settings:
+* Set directories, GUI theme, playlist length, song shortening rules, and repetition settings.
+* Speed controls: set BPM of the first song, BPM order, and maximum BPM distance (controls pitch adjustments).
+* Player controls, dynamic amplitude, export to multiple audio formats, keyboard shortcuts, and the ability to replace tracks in the playlist.
 
 ---
 
 ## Credits
 
-MixPerfect Player is freeware en mag alleen gratis en in de oorspronkelijke, ongewijzigde vorm worden verspreid. Commerciële verkoop of bundeling met betaalde producten is niet toegestaan. Gebruik van deze software is geheel op eigen risico. De ontwikkelaar aanvaardt geen aansprakelijkheid voor enige schade of verlies van gegevens als gevolg van het gebruik van deze applicatie.
+MixPerfect Player is freeware and may only be distributed free of charge and in its original, unmodified form. Commercial sale or bundling with paid products is not permitted. Use of this software is entirely at your own risk. The developer accepts no liability for any damage or data loss resulting from the use of this application.
 
 **Programmed by:** Martin Verlaan, copyright (c) 2024-2025 the Netherlands.
-* Gebruikte programmeertaal: PureBasic, copyright (c) 2024 Fantaisie Software, France.
-* Gebruikte iconen: copyright (c) [icons8.com](https://icons8.com).
-* Gebruikte lettertype: Bebas-Regular, copyright (c) Ryoichi Tsnunekawa, Japan.
-* Gebruikte audiobibliotheek: BASS, copyright (c) Un4seen Developments Ltd, UK.
-* Gebruikte BASS Add-ons:
+* Used programming language: PureBasic, copyright (c) 2024 Fantaisie Software, France.
+* Used icons: copyright (c) [icons8.com](https://icons8.com).
+* Used font: Bebas-Regular, copyright (c) Ryoichi Tsnunekawa, Japan.
+* Used audio library: BASS, copyright (c) Un4seen Developments Ltd, UK.
+* Used BASS Add-ons:
     * BASSmix, (c) Un4seen Developments Ltd, UK.
     * BASSOPUS, (c) Un4seen Developments Ltd, UK.
     * BASSFLAC, (c) Un4seen Developments Ltd, UK.
@@ -91,10 +91,10 @@ Thanks to: PureBasic forum members Wilbert (for the waveform assembler procedure
 
 ---
 
-## Website & Licentie
+## Website & License
 
 **MixPerfect Player Website:** [https://www.mixperfectplayer.nl](https://www.mixperfectplayer.nl)
 
-**Licentie**
-MixPerfect Player is gelicentieerd onder de **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License:**
+**License**
+MixPerfect Player is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License:**
 [https://github.com/martmix/MixPerfect-Player/blob/main/LICENSE](https://github.com/martmix/MixPerfect-Player/blob/main/LICENSE)
