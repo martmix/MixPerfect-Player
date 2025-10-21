@@ -41,8 +41,8 @@ MixPerfect Player is a **free semi-automatic DJ Player** for Windows and Linux t
 
 ---
 
-## Full Documentation
-[https://mixperfectplayer.nl/documentation.html](https://mixperfectplayer.nl/documentation.html)
+## Documentation
+Full documentation is included in the software (Help Panel) and also available on the MixPerfect Player website: [https://mixperfectplayer.nl/documentation.html](https://mixperfectplayer.nl/documentation.html)
 
 ---
 
