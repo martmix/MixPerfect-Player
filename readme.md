@@ -1,8 +1,6 @@
 # MixPerfect Player
 
-MixPerfect Player is a **free semi-automatic DJ Player** for Windows and Linux that precisely mixes your tracks using manually set **markers**, **beatmatching**, and flexible transition rules — while giving you full creative control.
-
-Ideal for background music, parties, and web radio.
+MixPerfect Player is a **free semi-automatic DJ Player** for Windows and Linux that precisely mixes your tracks using manually set **markers**, **beatmatching**, and flexible transition rules — while giving you full creative control. Ideal for background music, parties, and web radio.
 
 <img src="https://mixperfectplayer.nl/v4-mixperfect-player.png" alt="MixPerfect Player screenshot" width="920" height="694">
 
@@ -64,6 +62,8 @@ Ideal for background music, parties, and web radio.
 * Set directories, GUI theme, playlist length, song shortening rules, and repetition settings.
 * Speed controls: set BPM of the first song, BPM order, and maximum BPM distance (controls pitch adjustments).
 * Player controls, dynamic amplitude, export to multiple audio formats, keyboard shortcuts, and the ability to replace tracks in the playlist.
+
+<img src="https://mixperfectplayer.nl/v4-mixperfect-player-database-add-song.png" alt="MixPerfect Player - Add a song to database - screenshot" width="920" height="754">
 
 ---
 
