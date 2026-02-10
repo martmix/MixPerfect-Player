@@ -41,6 +41,14 @@ MixPerfect Player is a **free semi-automatic DJ Player** for Windows and Linux t
 
 ---
 
+<img src="https://mixperfectradio.nl/mixperfect-radio-logo-transparant.png" alt="MixPerfect Radio" width="300" height="210">
+
+[MixPerfect Radio](https://mixperfectradio.nl/) mixes 24/7 Italo Disco, Euro Dance & Eurobeat from the 80s & 90s.
+
+Mixed live with a customized version of MixPerfect Player, each transition beat-matched, harmonically aligned, and flowing nonstop — a perfect demonstration of the player in action.
+
+---
+
 ## Demo video's
 
 See how smoothly the player mixes songs in real time on the MixPerfect Player YouTube channel: [MixPerfect Player YouTube channel](https://www.youtube.com/@mixperfectplayer).
